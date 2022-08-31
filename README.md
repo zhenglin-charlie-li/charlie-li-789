@@ -8,8 +8,8 @@
 - 💔 Still single
 - 👤 LinkedIn: https://www.linkedin.com/in/zhenglin-li/
 - ⚡ Fun fact: 
-  - 💦 lose weight for more than 13 KG
-  - 👀 once have not sleep for 16 hours
-  - 😽 have a cat
-  - 👪 happy family
-  - 🏃 a runner
+  - 💦 have lost weight for more than 13 KG
+  - 👀 been to more than 5 countries
+  - 😽 keeping a cat
+  - 👪 live in a happy family
+  - 🏃 want to be a runner
