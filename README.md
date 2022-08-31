@@ -5,5 +5,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: lizhenglin2001@gmail.com
 - 😄 Pronouns: he/him/his
+- :heartbeat: Still single
 - ⚡ Fun fact: 
   - have a cat
