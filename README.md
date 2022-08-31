@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a SDE intern at Microsoft, a student in SCU
-- 🌱 I’m currently learning Distributed Systems, Cloud Computing, Database System
+- 🔭 I’m currently a student majoring in Software Engineering in SCU, a SDE intern at Microsoft
+- 🌱 I’m currently learning Distributed System, Cloud Computing, Database System
 - 💬 Ask me about anything
 - 📫 How to reach me: lizhenglin2001@gmail.com
 - 😄 Pronouns: he/him/his
