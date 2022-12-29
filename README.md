@@ -29,8 +29,12 @@
   - 👪 live in a happy family
   - 🏃 want to be a runner
   
+  \
+  \
+  \
+  <img align="left"  width="350"  src="https://github-readme-stats.vercel.app/api?username=Zhenglin-Li&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   
-  
+<!--  todo: reference to https://raw.githubusercontent.com/Eileen-Yu/Eileen-Yu/main/README.md  -->
   
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff) -->
 <!-- ![CSS3](https://img.shields.io/badge/-CSS3-%23197CBE?style=flat&logo=css3) -->
