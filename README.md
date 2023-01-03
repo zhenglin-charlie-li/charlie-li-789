@@ -17,11 +17,12 @@
 ![PowerShell](https://img.shields.io/badge/-Shell-%2389E051?style=flat&logo=powershell&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
-- 👊 Pronouns: he/him/his
-- 💔 Still single
+- 🥳 CV/Resume: https://tinyurl.com/Resume-Zhenglin-Li
 - 👤 LinkedIn: https://www.linkedin.com/in/zhenglin-li/    
+- 👊 Pronouns: he/him/his
 - 💬 Ask me about anything
 - 📫 How to reach me: lizhenglin2001@gmail.com
+- 💔 Still single
 - ⚡ Fun fact: 
   - 💦 have lost weight for more than 13 KG
   - 👀 been to more than 5 countries
