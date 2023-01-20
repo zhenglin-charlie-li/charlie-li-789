@@ -18,7 +18,8 @@
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 - 🥳 CV/Resume: https://tinyurl.com/Resume-Zhenglin-Li
-- 👤 LinkedIn: https://www.linkedin.com/in/zhenglin-li/    
+- 👤 LinkedIn: https://www.linkedin.com/in/zhenglin-li/   
+- 🤣 Personal website: https://zhenglinli.me/
 - 👊 Pronouns: he/him/his
 - 💬 Ask me about anything
 - 📫 How to reach me: lizhenglin2001@gmail.com
