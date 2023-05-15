@@ -5,7 +5,7 @@
 
 - 😄 I’m currently a student majoring in Software Engineering in SCU, a SDE intern at Microsoft
 - 🌱 I’m currently learning Distributed System, Cloud Computing, Database System, Natural Language Processing, Recommender Systemsm
-- 🥳 CV/Resume: https://tinyurl.com/Resume-Zhenglin-Li
+- 🥳 CV/Resume: https://tinyurl.com/Zhenglin-Li-Resume
 - 👤 LinkedIn: https://www.linkedin.com/in/zhenglin-li/   
 - 🤣 Personal website: https://zhenglinli.me/
 - 😎 Languages and Tools: 
