@@ -4,7 +4,7 @@
 
 
 
-- 😄 I’m currently Master of Computer Science student at Texas A&M University.
+- 😄 I’m currently Master of Computer Science student at Texas A&M University
 - 🌱 I’m currently learning Distributed System, Cloud Computing, Database System, Natural Language Processing, Recommender Systemsm
 - 🥳 CV/Resume: https://tinyurl.com/Zhenglin-Li-Resume
 - 👤 LinkedIn: https://www.linkedin.com/in/zhenglin-li/   
